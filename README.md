@@ -57,7 +57,7 @@ This notebook takes a deliberately "dirty" 100-row customer dataset — with dup
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/smartkart-churn-prediction.git
+   git clone https://github.com/anchitphutela-max/smartkart-churn-prediction.git
    cd smartkart-churn-prediction
    ```
 2. Install dependencies:
@@ -74,6 +74,4 @@ This notebook takes a deliberately "dirty" 100-row customer dataset — with dup
 
 Running the full notebook produces `smartkart_churn_risk_report.csv` — a ranked table of customers labeled **"Likely to Churn"** or **"Not Likely to Churn"**, sorted by churn probability, ready for a retention team to act on.
 
-## 📄 License
 
-Add a license of your choice (e.g., MIT) if you plan to share this repo publicly.
